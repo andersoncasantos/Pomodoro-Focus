@@ -34,7 +34,7 @@ button {
 
 .play svg path,
 .pause svg path,
-.sound-on svg path {
+.sound-off svg path {
 fill: var(--primary-color);
 }
 
